@@ -99,7 +99,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/helphub2.0.git
+   git clone https://github.com/dulanjayabhanu/HelpHub2.0.git
    cd helphub2.0
 
 ## 📄 License
