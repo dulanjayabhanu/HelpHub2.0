@@ -2,6 +2,10 @@
 
 Welcome to Help Hub 2.0🐝, a web application developed to connect people🌎 who need help with those who can offer assistance in a simple and efficient manner. This project showcases my skills and passion for web development and social good.
 
+<div>
+  <img src="https://github.com/dulanjayabhanu/HelpHub2.0/blob/master/assets/Main_wall.png" alt="Example GIF" style="border-radius: 10px; margin: 10px;">
+</div>
+
 ## ✨ Features
 
 - **User Registration and Authentication**: Create an account and log in securely🔒.
@@ -92,6 +96,10 @@ To set up this project locally, follow these steps:
 
 ## 🤝 Contributing
 
+<a href="https://github.com/ShaanCoding/makeread.me" style="">
+   <img src="assets/Poster.png" alt="Logo" height="299">
+</a>
+   
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 1. **Fork the repository**:
