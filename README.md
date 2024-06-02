@@ -28,7 +28,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/helphub2.0.git
+   git clone https://github.com/dulanjayabhanu/HelpHub2.0.git
    cd helphub2.0
 
 ## Setup the Database
