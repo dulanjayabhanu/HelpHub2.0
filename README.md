@@ -1,3 +1,24 @@
+<br/>
+<div align="center">
+<a href="https://github.com/dulanjayabhanu/HelpHub2.0">
+<img src="assets/logo.png" alt="HelpHub2.0 Main Logo" width="200" height="200">
+</a>
+<h3 align="center">HelpHub2.0</h3>
+<p align="center">
+COMMUNITY SUPPORT PLATFORM
+<br/>
+<br/>
+<a href="https://github.com/dulanjayabhanu/HelpHub2.0"><strong>Explore the docs »</strong></a>
+<br/>
+<br/>
+<a href="https://github.com/dulanjayabhanu/HelpHub2.0/">View Repo .</a>  
+<a href="https://github.com/dulanjayabhanu/HelpHub2.0/issues/new?labels=bug&amp;template=bug_report.md">Report Bug .</a>
+<a href="https://github.com/dulanjayabhanu/HelpHub2.0/issues/new?labels=enhancement&amp;&template=feature_request.md">Request Feature</a>
+</p>
+</div>
+
+![Contributors](https://img.shields.io/github/contributors/dulanjayabhanu/HelpHub2.0?color=dark-green) ![Issues](https://img.shields.io/github/issues/dulanjayabhanu/HelpHub2.0) ![License](https://img.shields.io/github/license/dulanjayabhanu/HelpHub2.0)
+
 # Help Hub 2.0🐝
 
 Welcome to Help Hub 2.0🐝, a web application developed to connect people🌎 who need help with those who can offer assistance in a simple and efficient manner. This project showcases my skills and passion for web development and social good.
