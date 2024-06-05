@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/dulanjayabhanu/HelpHub2.0">
-<img src="assets/logo.png" alt="HelpHub2.0 Main Logo" width="200" height="200">
+<img src="assets/icon.png" alt="HelpHub2.0 Main Logo" width="200" height="200">
 </a>
 <h3 align="center">HelpHub2.0</h3>
 <p align="center">
