@@ -41,12 +41,12 @@ if(isset($_POST["username"])){
             $mail->IsSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'kerenlkrew@gmail.com';
-            $mail->Password = 'wvbadwmvtljdwuyb';
+            $mail->Username = '';
+            $mail->Password = '';
             $mail->SMTPSecure = 'ssl';
             $mail->Port = 465;
-            $mail->setFrom('kerenlkrew@gmail.com', 'Help Hub');
-            $mail->addReplyTo('kerenlkrew@gmail.com', 'Help Hub');
+            $mail->setFrom('', 'Help Hub');
+            $mail->addReplyTo('', 'Help Hub');
             $mail->addAddress($email);
             $mail->isHTML(true);
             $mail->Subject = 'Help Hub Signin Verification Code';
